@@ -10,6 +10,7 @@
 
 public class NowaKlasa {
     // Do zrobienia
+    // To jest zmiana w pliku klasy
     // TODO: jak masz coś do zrobienia to zaznacz opcją "TODO"
     // fixme: fixme: do naprawy
 
