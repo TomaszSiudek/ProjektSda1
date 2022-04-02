@@ -1,0 +1,8 @@
+# To jest plik w którym piszemy listę plików/katalogów
+# które nie mają być śledzone
+
+# Jeśli dopiszecie / na końcu, git będzie interpretował jako folder
+dodatkowe_pliki/
+
+# Nazwa pliku
+jakis_plik.txt
